@@ -1,0 +1,501 @@
+rep_id,rep_name,territory_id,tenure_months,monthly_salary,product_specialty,performance_segment
+REP0001,Zayyan Ramaswamy,67,62,51489,Cardiology,Dog
+REP0002,Watika Rai,76,32,31080,Neurology,Star
+REP0003,Falguni Hayer,26,37,36616,Oncology,Cash Cow
+REP0004,Rajeshri Oommen,16,87,50206,General,Cash Cow
+REP0005,Niharika Mukhopadhyay,51,39,53470,Cardiology,Cash Cow
+REP0006,Tanmayi Pal,57,7,57225,General,Dog
+REP0007,Owen Sami,29,85,57145,Cardiology,Question Mark
+REP0008,Unni Chanda,78,80,44104,Diabetology,Star
+REP0009,Jagvi Biswas,69,28,48626,Cardiology,Question Mark
+REP0010,Jason Kari,47,64,57987,Neurology,Star
+REP0011,Nandini Parmer,62,6,41966,Oncology,Star
+REP0012,Sudiksha Thaman,69,91,48797,Diabetology,Question Mark
+REP0013,Dipta Wable,76,111,41731,Cardiology,Star
+REP0014,Akshay Seth,16,44,39490,General,Cash Cow
+REP0015,Bachittar Chandra,48,91,45483,Diabetology,Cash Cow
+REP0016,Pranav Sengupta,39,20,38124,Diabetology,Question Mark
+REP0017,Pavani Karpe,33,42,43690,Cardiology,Question Mark
+REP0018,Nimrat Mangal,23,74,34650,Diabetology,Cash Cow
+REP0019,Ojas Sekhon,10,41,43100,General,Star
+REP0020,Hitesh Muni,69,106,49483,Diabetology,Question Mark
+REP0021,William Nanda,34,16,39112,General,Question Mark
+REP0022,Tarak Patla,52,34,45092,Cardiology,Star
+REP0023,Brinda Bumb,10,53,46393,Oncology,Star
+REP0024,Yadavi Memon,19,40,49525,Diabetology,Question Mark
+REP0025,Arya De,58,99,43664,Oncology,Star
+REP0026,Aishani Majumdar,1,25,55858,General,Question Mark
+REP0027,Urvi Kaul,69,65,25000,Diabetology,Question Mark
+REP0028,Yasti Luthra,4,17,74377,Neurology,Question Mark
+REP0029,Kiaan Dasgupta,16,99,36288,Oncology,Cash Cow
+REP0030,Leena Natt,24,27,49033,Diabetology,Cash Cow
+REP0031,Chaitaly Roy,80,19,35615,Oncology,Star
+REP0032,Rajeshri Choudhry,2,99,51442,Diabetology,Question Mark
+REP0033,Alexander Sarin,32,113,47765,Cardiology,Cash Cow
+REP0034,Gaurav Sarna,24,68,38492,Oncology,Cash Cow
+REP0035,Kavya Borde,12,80,55730,Neurology,Question Mark
+REP0036,Matthew Tara,50,55,43360,Neurology,Dog
+REP0037,Caleb Khurana,35,106,50472,General,Star
+REP0038,Adweta Parekh,33,106,35828,Diabetology,Question Mark
+REP0039,Gaurav Sidhu,33,53,44691,Oncology,Question Mark
+REP0040,Hemal Bhargava,61,41,65034,General,Question Mark
+REP0041,Riya Bhatt,51,53,54629,Oncology,Cash Cow
+REP0042,Garima Brahmbhatt,43,72,48076,Diabetology,Dog
+REP0043,Fitan Bora,12,8,40510,Neurology,Question Mark
+REP0044,Max Ramaswamy,67,69,45674,Cardiology,Dog
+REP0045,Libni Barad,65,9,46975,Neurology,Dog
+REP0046,Ekiya Wadhwa,33,53,49492,General,Question Mark
+REP0047,Theodore Buch,40,74,34233,Cardiology,Question Mark
+REP0048,Warda Bhasin,74,44,51684,General,Dog
+REP0049,Vasana Agate,43,66,34104,Diabetology,Dog
+REP0050,Jyoti Kala,44,118,61311,Cardiology,Dog
+REP0051,Darika Taneja,29,17,37283,General,Question Mark
+REP0052,Wakeeta Ramachandran,13,113,47966,Diabetology,Question Mark
+REP0053,Aradhana Chakraborty,12,31,55051,Neurology,Question Mark
+REP0054,Turvi Prabhakar,46,35,42476,Diabetology,Dog
+REP0055,Anamika Varty,2,118,48406,Oncology,Question Mark
+REP0056,William Srivastava,35,96,59351,Diabetology,Star
+REP0057,Ethan Bhagat,8,105,50644,Diabetology,Dog
+REP0058,Nihal Buch,26,29,48555,Oncology,Cash Cow
+REP0059,Zaitra Contractor,74,38,28152,General,Dog
+REP0060,Udant Badami,34,31,35662,General,Question Mark
+REP0061,Riya Saha,7,40,55469,Diabetology,Question Mark
+REP0062,Karan Bava,68,59,50699,Oncology,Cash Cow
+REP0063,Omya Deshmukh,58,99,52214,Oncology,Star
+REP0064,Deepa Oommen,75,103,51353,Neurology,Star
+REP0065,Sai Nayak,29,29,57897,General,Question Mark
+REP0066,Amara Ramaswamy,36,57,42386,Cardiology,Question Mark
+REP0067,Tanay Pai,21,35,46204,General,Cash Cow
+REP0068,Netra Golla,36,70,34713,General,Question Mark
+REP0069,Yashodhara Rajagopal,10,88,32219,Neurology,Star
+REP0070,Damyanti Mody,73,68,28562,Cardiology,Dog
+REP0071,Siya Singh,24,12,36148,Neurology,Cash Cow
+REP0072,Vihaan Tella,64,7,60525,Cardiology,Star
+REP0073,Darika Kanda,49,76,29472,Diabetology,Question Mark
+REP0074,Nicholas Purohit,36,99,41964,Cardiology,Question Mark
+REP0075,Urmi Bhalla,24,40,32068,Neurology,Cash Cow
+REP0076,Theodore Ramesh,23,15,38990,General,Cash Cow
+REP0077,Ekavir Basak,62,33,46696,Cardiology,Star
+REP0078,Lila Ravi,37,49,37998,Cardiology,Question Mark
+REP0079,Balhaar Nagy,12,102,55896,Oncology,Question Mark
+REP0080,Isha Chhabra,55,111,60339,General,Cash Cow
+REP0081,Anya Chahal,13,90,25000,Diabetology,Question Mark
+REP0082,Jeet Ganesh,23,54,38170,Neurology,Cash Cow
+REP0083,Ekantika Kadakia,30,58,45591,Diabetology,Question Mark
+REP0084,Nilima Sridhar,17,17,56261,General,Cash Cow
+REP0085,Advay Sampath,62,31,40457,Cardiology,Star
+REP0086,Xalak Bedi,13,10,44800,Cardiology,Question Mark
+REP0087,Anika Ganesh,59,7,33432,General,Cash Cow
+REP0088,Forum Khalsa,19,31,29672,Cardiology,Question Mark
+REP0089,Rachita Mittal,49,49,59453,Cardiology,Question Mark
+REP0090,Vedant Lall,12,70,26759,Cardiology,Question Mark
+REP0091,Zansi Mohanty,61,78,68286,Neurology,Question Mark
+REP0092,Unni Saha,19,47,52251,Neurology,Question Mark
+REP0093,Isaac Mukhopadhyay,76,4,51799,Oncology,Star
+REP0094,Ronith Wason,9,29,50754,Diabetology,Cash Cow
+REP0095,Faqid Barman,71,97,42473,General,Cash Cow
+REP0096,Siddharth Chauhan,28,117,48920,General,Star
+REP0097,Zaid Bal,78,117,43111,General,Star
+REP0098,Quincy Sunder,52,38,50530,Oncology,Star
+REP0099,Rajeshri Prabhu,16,38,44663,Neurology,Cash Cow
+REP0100,Aarav Nayak,69,28,35496,Oncology,Question Mark
+REP0101,Jeremiah Sama,12,45,36294,General,Question Mark
+REP0102,Yagnesh Aggarwal,25,29,35157,Diabetology,Cash Cow
+REP0103,Ojasvi Chahal,52,71,54709,Cardiology,Star
+REP0104,Liam Sridhar,53,22,38825,Neurology,Cash Cow
+REP0105,Ubika Kibe,23,13,25878,Neurology,Cash Cow
+REP0106,Yashoda Oommen,16,76,48968,Oncology,Cash Cow
+REP0107,Sudiksha Oommen,57,106,60145,Neurology,Dog
+REP0108,Aadhya Toor,39,40,52730,General,Question Mark
+REP0109,Falan Nagarajan,53,8,38966,General,Cash Cow
+REP0110,Madhavi Jhaveri,42,74,29131,Oncology,Star
+REP0111,Bhavani Mahajan,58,25,43657,General,Star
+REP0112,Elijah Yohannan,39,49,43407,Diabetology,Question Mark
+REP0113,Hitesh Samra,14,92,35308,Oncology,Cash Cow
+REP0114,Lohit Nayak,5,48,50510,Diabetology,Dog
+REP0115,Ucchal Balan,35,109,63466,Cardiology,Star
+REP0116,Kabir Palla,75,14,47222,Diabetology,Star
+REP0117,Ishaan Mandal,18,92,46604,Cardiology,Question Mark
+REP0118,Rayaan Narain,76,15,35627,Cardiology,Star
+REP0119,Yash Dugal,9,106,58974,Diabetology,Cash Cow
+REP0120,Rushil Kapadia,74,64,44248,Oncology,Dog
+REP0121,Chavvi Oak,58,84,39210,General,Star
+REP0122,Xiti Munshi,17,91,45636,General,Cash Cow
+REP0123,Neha Dhingra,7,99,49719,Cardiology,Question Mark
+REP0124,Panini Dani,46,113,46392,Cardiology,Dog
+REP0125,Charan Uppal,13,106,57061,Oncology,Question Mark
+REP0126,Pooja Lal,40,62,48839,Neurology,Question Mark
+REP0127,Anthony Chaudry,42,45,42160,Diabetology,Star
+REP0128,Elijah Prasad,9,78,49011,Cardiology,Cash Cow
+REP0129,Jatin Bhakta,50,110,49996,General,Dog
+REP0130,Tanay Kadakia,27,102,32036,Oncology,Question Mark
+REP0131,Amol Singhal,66,114,56494,Diabetology,Star
+REP0132,Elijah Hora,5,70,41990,Oncology,Dog
+REP0133,Neelima Ramachandran,29,7,42246,Diabetology,Question Mark
+REP0134,Chatura Panchal,37,39,52513,Diabetology,Question Mark
+REP0135,Zayyan Thaker,38,74,52471,Cardiology,Question Mark
+REP0136,Varenya Bhasin,8,108,37991,Oncology,Dog
+REP0137,Akshay Swaminathan,65,115,53029,Oncology,Dog
+REP0138,Triveni Pillay,17,94,39395,General,Cash Cow
+REP0139,Lakshmi Bedi,71,33,63195,General,Cash Cow
+REP0140,Amol Varghese,45,11,36718,Cardiology,Cash Cow
+REP0141,Lakshmi Rana,4,53,47394,Cardiology,Question Mark
+REP0142,Christopher Saini,36,31,37179,Neurology,Question Mark
+REP0143,Nikita Bajaj,70,80,67226,General,Question Mark
+REP0144,Panini Chokshi,31,42,32621,Diabetology,Dog
+REP0145,Aayush Raghavan,19,43,50243,Oncology,Question Mark
+REP0146,Nidhi Varkey,61,88,37650,Cardiology,Question Mark
+REP0147,Dalbir Patel,54,13,41458,Oncology,Cash Cow
+REP0148,Bina Chadha,39,25,49535,Oncology,Question Mark
+REP0149,Ekaja Mani,74,3,57245,Neurology,Dog
+REP0150,Upkaar Pai,19,48,61233,General,Question Mark
+REP0151,Netra Radhakrishnan,39,103,29630,Cardiology,Question Mark
+REP0152,Christopher Oommen,67,23,47677,Oncology,Dog
+REP0153,Bhanumati Kothari,45,92,59594,Cardiology,Cash Cow
+REP0154,Maanav Datta,13,112,28146,Diabetology,Question Mark
+REP0155,Rushil Kuruvilla,58,38,48143,Neurology,Star
+REP0156,Janya Mitter,20,56,44979,Diabetology,Cash Cow
+REP0157,Sarthak Doshi,72,89,49145,Cardiology,Dog
+REP0158,Faras Pai,61,59,37276,Cardiology,Question Mark
+REP0159,Ekta Mahajan,39,3,30643,General,Question Mark
+REP0160,Yadavi Kohli,1,65,25868,Oncology,Question Mark
+REP0161,Unni Ramaswamy,3,56,54763,Oncology,Cash Cow
+REP0162,Nathan Sagar,77,57,56040,Diabetology,Dog
+REP0163,Hemani Pandya,62,117,48026,Neurology,Star
+REP0164,Sarthak Mannan,63,42,39658,Oncology,Cash Cow
+REP0165,Chasmum Din,25,17,28769,General,Cash Cow
+REP0166,Yoshita Chandra,56,23,50633,Diabetology,Question Mark
+REP0167,Amrita Deshpande,33,49,33992,Diabetology,Question Mark
+REP0168,Pranit Bhardwaj,38,75,37887,General,Question Mark
+REP0169,Alka Dugar,6,55,39134,Neurology,Star
+REP0170,Isaiah Subramaniam,58,11,43024,General,Star
+REP0171,Bhanumati Bansal,44,76,37409,Neurology,Dog
+REP0172,Priya Bera,45,54,45334,General,Cash Cow
+REP0173,Harsh Wali,32,59,38781,General,Cash Cow
+REP0174,Charles Samra,45,119,52013,Cardiology,Cash Cow
+REP0175,Dalaja Dash,61,28,55310,Diabetology,Question Mark
+REP0176,Vincent Narula,47,43,46085,General,Star
+REP0177,Ayush Rastogi,21,37,49626,General,Cash Cow
+REP0178,Onkar Jani,80,65,66178,Oncology,Star
+REP0179,Yagnesh Murthy,75,118,33273,Diabetology,Star
+REP0180,Xavier Chaudhary,36,27,32665,Oncology,Question Mark
+REP0181,Kavya Ghose,19,92,51949,Diabetology,Question Mark
+REP0182,Sathvik Chadha,20,77,64465,Oncology,Cash Cow
+REP0183,Balveer Prakash,57,40,42395,General,Dog
+REP0184,Isaac Panchal,18,4,62268,General,Question Mark
+REP0185,Suhani Banerjee,47,9,45964,Cardiology,Star
+REP0186,Finn Nigam,49,84,38191,Oncology,Question Mark
+REP0187,Zarna Muni,14,93,35093,Neurology,Cash Cow
+REP0188,Suhani Kalla,15,36,51294,Cardiology,Dog
+REP0189,Udant Andra,31,93,35850,Oncology,Dog
+REP0190,Indrajit Kalla,1,19,45812,Oncology,Question Mark
+REP0191,Warjas Dara,54,45,60834,Cardiology,Cash Cow
+REP0192,Barkha Shan,3,61,41932,General,Cash Cow
+REP0193,Indrajit Grewal,16,110,58140,Oncology,Cash Cow
+REP0194,Damyanti Kala,57,53,32854,General,Dog
+REP0195,Umang Upadhyay,75,56,39660,Cardiology,Star
+REP0196,Zaitra Sathe,12,26,30928,General,Question Mark
+REP0197,Pallavi Palla,74,27,45729,Diabetology,Dog
+REP0198,Vasana Krish,16,73,52800,Neurology,Cash Cow
+REP0199,Yashoda Randhawa,72,54,45751,Oncology,Dog
+REP0200,Rajeshri Ramakrishnan,76,72,57270,Neurology,Star
+REP0201,Brinda Dass,24,119,37508,General,Cash Cow
+REP0202,Mohammed Garg,28,90,47253,Oncology,Star
+REP0203,Wriddhish Nadig,8,35,39725,General,Dog
+REP0204,Indali Bahl,36,51,48616,Diabetology,Question Mark
+REP0205,Yadavi Pandya,8,31,50037,Cardiology,Dog
+REP0206,Chanchal Apte,58,65,50823,Oncology,Star
+REP0207,Tanmayi Narula,60,109,34294,Diabetology,Dog
+REP0208,Qushi Johal,50,24,36102,Diabetology,Dog
+REP0209,Imaran Bhatnagar,28,28,37957,Oncology,Star
+REP0210,Luke Barman,41,30,42611,General,Dog
+REP0211,Gaurav Ranganathan,64,116,45871,Diabetology,Star
+REP0212,Jagvi Gola,27,87,52080,Neurology,Question Mark
+REP0213,Janaki Jha,63,51,36519,Diabetology,Cash Cow
+REP0214,Balhaar Jaggi,17,73,28989,General,Cash Cow
+REP0215,Pushti Tripathi,73,83,66557,General,Dog
+REP0216,Max Tara,33,86,33685,Neurology,Question Mark
+REP0217,Raksha Varma,77,107,53363,Diabetology,Dog
+REP0218,Ekbal Chakrabarti,29,51,45312,General,Question Mark
+REP0219,Ishani Nair,13,22,47513,Oncology,Question Mark
+REP0220,Aayush Majumdar,46,88,44984,Cardiology,Dog
+REP0221,Guneet Bahl,35,94,41151,Cardiology,Star
+REP0222,Shivani Vig,6,65,49639,Cardiology,Star
+REP0223,Ekaraj Bahl,69,63,40614,Diabetology,Question Mark
+REP0224,Aryan Kala,47,106,56663,Neurology,Star
+REP0225,Elijah Shah,25,51,50684,General,Cash Cow
+REP0226,Divya Rama,66,73,50995,Oncology,Star
+REP0227,Amrita Ratta,10,3,39928,Oncology,Star
+REP0228,Onkar Badal,56,98,42636,Diabetology,Question Mark
+REP0229,Samaksh Jayaraman,30,15,33120,Cardiology,Question Mark
+REP0230,Tristan Edwin,5,96,41469,Diabetology,Dog
+REP0231,Hemal Kakar,33,89,34634,Neurology,Question Mark
+REP0232,Urvi De,65,53,58130,Neurology,Dog
+REP0233,Wakeeta Karpe,18,58,45505,General,Question Mark
+REP0234,Hemangini Maharaj,49,85,46704,General,Question Mark
+REP0235,Mitali Bobal,11,64,42748,Neurology,Cash Cow
+REP0236,Yug Hora,26,34,46975,Neurology,Cash Cow
+REP0237,Wriddhish Garde,63,32,69648,Neurology,Cash Cow
+REP0238,Harshil Rege,59,31,41998,Diabetology,Cash Cow
+REP0239,Chanchal Gour,27,51,38495,Neurology,Question Mark
+REP0240,Wahab Bhardwaj,49,47,50296,Oncology,Question Mark
+REP0241,Keya Naik,77,95,25000,Cardiology,Dog
+REP0242,Damyanti Chakrabarti,33,32,45639,Neurology,Question Mark
+REP0243,Nidhi Pai,1,18,41282,Cardiology,Question Mark
+REP0244,Odika Gera,21,42,35076,Diabetology,Cash Cow
+REP0245,Vasatika Pal,55,21,50077,Cardiology,Cash Cow
+REP0246,Kashvi Jhaveri,6,20,45539,Diabetology,Star
+REP0247,Falguni Halder,69,3,26975,Oncology,Question Mark
+REP0248,Matthew Deshpande,5,80,38534,Diabetology,Dog
+REP0249,Zayyan Dada,3,117,25000,Diabetology,Cash Cow
+REP0250,Gaurav Walia,53,49,47932,General,Cash Cow
+REP0251,Sarthak Thakur,23,116,47832,Neurology,Cash Cow
+REP0252,Ansh Bhandari,53,68,37067,Neurology,Cash Cow
+REP0253,Garima Sinha,37,94,50401,Oncology,Question Mark
+REP0254,Gayathri Merchant,74,115,32175,Oncology,Dog
+REP0255,Rachita Dugar,74,116,35334,Neurology,Dog
+REP0256,Elijah Srinivas,17,96,49171,General,Cash Cow
+REP0257,Bakhshi Keer,78,40,38113,Neurology,Star
+REP0258,Lakshmi Tiwari,73,53,44373,General,Dog
+REP0259,Krish Sharaf,1,65,39363,Oncology,Question Mark
+REP0260,Aayush Bajwa,51,6,40890,Cardiology,Cash Cow
+REP0261,Brijesh Rastogi,45,3,41327,Oncology,Cash Cow
+REP0262,Advik Grewal,77,10,37932,Oncology,Dog
+REP0263,Wyatt Acharya,4,31,48024,Diabetology,Question Mark
+REP0264,Aryan Amble,62,57,38720,Diabetology,Star
+REP0265,Balendra Dyal,65,105,45156,Diabetology,Dog
+REP0266,Darika Buch,32,5,37712,Diabetology,Cash Cow
+REP0267,Yuvraj Bhagat,34,34,29657,General,Question Mark
+REP0268,Shravya Mahal,72,12,54124,Neurology,Dog
+REP0269,Kashish Narula,39,76,49995,Cardiology,Question Mark
+REP0270,Girik Upadhyay,26,85,67886,Oncology,Cash Cow
+REP0271,Devansh Palan,34,112,34560,General,Question Mark
+REP0272,Aarav Sha,54,36,42910,Cardiology,Cash Cow
+REP0273,Janani Thaker,3,99,43714,General,Cash Cow
+REP0274,Ikbal Sarin,50,89,54893,General,Dog
+REP0275,Hemal Tandon,12,57,39928,Oncology,Question Mark
+REP0276,Nidra Konda,65,94,33289,Neurology,Dog
+REP0277,Simon Malhotra,54,34,57078,Diabetology,Cash Cow
+REP0278,Mitali Jain,5,52,41833,Neurology,Dog
+REP0279,Michael Mistry,57,9,53786,Oncology,Dog
+REP0280,Pahal Viswanathan,17,95,52621,Oncology,Cash Cow
+REP0281,Shivani Konda,47,10,44701,Oncology,Star
+REP0282,Zinal Chokshi,23,67,43256,Cardiology,Cash Cow
+REP0283,Aarush Gour,79,59,41084,Neurology,Star
+REP0284,Aarini Golla,14,69,44848,Neurology,Cash Cow
+REP0285,Radha Dar,66,90,53631,General,Star
+REP0286,Xavier Keer,75,89,37035,General,Star
+REP0287,Madhavi Bains,51,61,46088,General,Cash Cow
+REP0288,Jeremiah Narang,38,74,33813,Oncology,Question Mark
+REP0289,Teerth Dasgupta,64,56,35058,Neurology,Star
+REP0290,Bimala Toor,38,113,44690,Oncology,Question Mark
+REP0291,Laban Keer,50,103,25398,Cardiology,Dog
+REP0292,Krish Gopal,30,69,65605,General,Question Mark
+REP0293,Warinder Gandhi,79,53,33069,Oncology,Star
+REP0294,Gayathri Hayre,51,99,44599,Oncology,Cash Cow
+REP0295,Charita Taneja,63,94,56682,Cardiology,Cash Cow
+REP0296,Pahal Sheth,52,113,36370,Diabetology,Star
+REP0297,Pranav Sethi,38,10,25000,Neurology,Question Mark
+REP0298,Wyatt Tailor,79,36,40550,Diabetology,Star
+REP0299,Nakul Balan,30,37,36251,General,Question Mark
+REP0300,Zehaan Bora,51,98,25000,Oncology,Cash Cow
+REP0301,Bhavani Ganesan,5,90,47848,Cardiology,Dog
+REP0302,Ikshita Ahluwalia,29,80,47070,Cardiology,Question Mark
+REP0303,Mekhala Ghose,4,34,56423,Neurology,Question Mark
+REP0304,Anmol Kala,10,48,33791,Diabetology,Star
+REP0305,Ekalinga Dewan,56,109,29008,Neurology,Question Mark
+REP0306,Yatan Jani,17,18,40932,Oncology,Cash Cow
+REP0307,Laksh Puri,74,70,44116,Neurology,Dog
+REP0308,Laban Om,17,118,54213,Cardiology,Cash Cow
+REP0309,Tristan Babu,69,39,59105,Cardiology,Question Mark
+REP0310,Lopa Hegde,34,56,57144,General,Question Mark
+REP0311,Harinakshi Babu,6,87,47765,General,Star
+REP0312,Keya Gupta,53,16,52994,Oncology,Cash Cow
+REP0313,Henry Aurora,66,97,38595,Diabetology,Star
+REP0314,Ekavir Bala,77,57,46683,Neurology,Dog
+REP0315,Aahana Nagi,43,50,33087,Oncology,Dog
+REP0316,Rayaan Chawla,75,84,45626,General,Star
+REP0317,Panini Kadakia,23,9,45886,Neurology,Cash Cow
+REP0318,Anusha Atwal,55,76,62221,General,Cash Cow
+REP0319,Aishani Yadav,80,9,42710,Neurology,Star
+REP0320,Onveer Sarin,75,35,45900,Diabetology,Star
+REP0321,Krishna Ganesh,16,25,47369,Oncology,Cash Cow
+REP0322,Dayita Walia,8,87,40451,Neurology,Dog
+REP0323,Unnati Mitra,4,21,36975,Cardiology,Question Mark
+REP0324,Avni Behl,4,114,57988,Cardiology,Question Mark
+REP0325,Janya Dua,56,21,35190,Neurology,Question Mark
+REP0326,Parth Krish,25,38,31720,Neurology,Cash Cow
+REP0327,Arjun Ganesh,67,31,51802,Neurology,Dog
+REP0328,Patrick Korpal,67,62,56578,Cardiology,Dog
+REP0329,Vinaya Chahal,27,84,40485,Cardiology,Question Mark
+REP0330,Nathan Palla,32,4,40639,Neurology,Cash Cow
+REP0331,Chatura Rattan,50,3,47825,General,Dog
+REP0332,Yoshita Barad,61,49,37921,General,Question Mark
+REP0333,Gaurang Hayer,51,71,37182,Diabetology,Cash Cow
+REP0334,Patrick Dyal,19,22,53795,Oncology,Question Mark
+REP0335,Ijaya Andra,21,13,51071,General,Cash Cow
+REP0336,Aayush Bath,5,108,58111,Cardiology,Dog
+REP0337,Liam Saran,42,4,32474,General,Star
+REP0338,Lekha Kaul,61,69,39975,Diabetology,Question Mark
+REP0339,Turvi Gade,22,89,47811,Diabetology,Star
+REP0340,Manan Peri,21,14,35743,Oncology,Cash Cow
+REP0341,Hemal Kade,70,22,51416,General,Question Mark
+REP0342,Jairaj Bora,1,7,57246,Cardiology,Question Mark
+REP0343,Vansha Oak,5,39,39166,Cardiology,Dog
+REP0344,Samarth Dey,12,40,45385,Neurology,Question Mark
+REP0345,Falan Ramakrishnan,46,96,59556,Cardiology,Dog
+REP0346,Harish Raval,34,11,62992,Oncology,Question Mark
+REP0347,Gautam Bera,49,100,52458,Oncology,Question Mark
+REP0348,Ekansh Sen,78,55,50934,Cardiology,Star
+REP0349,Manthan Parekh,45,46,36462,Cardiology,Cash Cow
+REP0350,Geetika Suri,27,101,48592,Neurology,Question Mark
+REP0351,Hema Walla,73,118,50568,Cardiology,Dog
+REP0352,Bhavya Tailor,26,88,42896,Neurology,Cash Cow
+REP0353,Kavya Mohanty,47,110,39052,Neurology,Star
+REP0354,Udant Sen,56,26,32187,Cardiology,Question Mark
+REP0355,Arunima Date,63,83,27622,Diabetology,Cash Cow
+REP0356,Raagini Johal,48,76,25521,Diabetology,Cash Cow
+REP0357,Kevin Badal,61,32,50794,Neurology,Question Mark
+REP0358,Anthony Goyal,26,61,46476,Cardiology,Cash Cow
+REP0359,Amara Khanna,36,112,40161,Diabetology,Question Mark
+REP0360,Bhavani Balakrishnan,1,89,41685,Cardiology,Question Mark
+REP0361,Jack Subramanian,8,98,47104,Cardiology,Dog
+REP0362,Warda Balasubramanian,52,83,43354,Cardiology,Star
+REP0363,Dalbir Bhargava,79,116,31594,General,Star
+REP0364,Jacob Oak,47,117,54130,Cardiology,Star
+REP0365,Onkar Som,56,83,48041,General,Question Mark
+REP0366,Arya Prashad,14,16,47658,Neurology,Cash Cow
+REP0367,Quincy Kapadia,28,11,53375,Diabetology,Star
+REP0368,Gopal Pant,78,42,36863,Diabetology,Star
+REP0369,Advay Barad,2,68,57137,Diabetology,Question Mark
+REP0370,Gagan Lall,26,111,43599,Diabetology,Cash Cow
+REP0371,Yauvani Rao,14,27,53885,Diabetology,Cash Cow
+REP0372,Damyanti Rattan,59,105,52344,Diabetology,Cash Cow
+REP0373,Janani Tandon,56,75,34611,Diabetology,Question Mark
+REP0374,Urishilla Bhargava,7,24,50029,Neurology,Question Mark
+REP0375,Viraj Bala,3,109,48262,Cardiology,Cash Cow
+REP0376,Mitali Dixit,23,112,45303,Oncology,Cash Cow
+REP0377,Mugdha Bhardwaj,18,6,44056,General,Question Mark
+REP0378,Keya Sani,38,28,44141,Oncology,Question Mark
+REP0379,Kashvi Magar,15,60,53126,Oncology,Dog
+REP0380,Jagrati Dyal,64,31,50779,Cardiology,Star
+REP0381,Lajita Boase,28,111,45304,Cardiology,Star
+REP0382,Sachi Pillay,74,100,30080,Cardiology,Dog
+REP0383,Pranav Sridhar,39,89,49944,Diabetology,Question Mark
+REP0384,Utkarsh Mohanty,57,39,52236,Neurology,Dog
+REP0385,Chandani Batta,17,77,68004,Diabetology,Cash Cow
+REP0386,Darika Vyas,44,72,55754,Neurology,Dog
+REP0387,Amara Nadkarni,25,20,26008,Neurology,Cash Cow
+REP0388,Anita Chad,17,87,45784,Oncology,Cash Cow
+REP0389,Azad Peri,13,44,63113,Oncology,Question Mark
+REP0390,Umang Mitter,25,102,51235,Neurology,Cash Cow
+REP0391,Tanish Ravi,68,43,48286,Neurology,Cash Cow
+REP0392,Jeet Mukhopadhyay,10,40,54002,Diabetology,Star
+REP0393,Baljiwan Krish,67,36,38776,Diabetology,Dog
+REP0394,Turvi Mand,18,19,49780,Oncology,Question Mark
+REP0395,Ishanvi Doctor,34,39,42495,Cardiology,Question Mark
+REP0396,Gagan Savant,8,27,44803,Neurology,Dog
+REP0397,Watika Ganesan,40,104,53284,Diabetology,Question Mark
+REP0398,Ikshita Rastogi,42,78,35732,Oncology,Star
+REP0399,Jai Ahuja,41,89,57879,Diabetology,Dog
+REP0400,Wakeeta Kulkarni,6,119,40771,Neurology,Star
+REP0401,Maanas Srinivas,52,108,47606,Neurology,Star
+REP0402,Aarush Issac,26,88,30994,General,Cash Cow
+REP0403,Janya Maharaj,64,87,52198,Cardiology,Star
+REP0404,Saumya Sarin,59,29,59465,General,Cash Cow
+REP0405,Vasana Desai,56,59,39853,Oncology,Question Mark
+REP0406,Anthony Palla,59,33,33897,Diabetology,Cash Cow
+REP0407,Ryan Madan,70,8,47779,Oncology,Question Mark
+REP0408,Triya Lalla,33,93,59548,Neurology,Question Mark
+REP0409,Chanchal Trivedi,53,42,30501,General,Cash Cow
+REP0410,Chameli Hari,22,100,33936,General,Star
+REP0411,Amrita Vala,21,14,40458,General,Cash Cow
+REP0412,Nakul Bala,70,111,36796,Oncology,Question Mark
+REP0413,Vivaan Wadhwa,70,55,36828,Neurology,Question Mark
+REP0414,Vanya Pandey,4,73,25000,Diabetology,Question Mark
+REP0415,Bhavika More,75,12,50890,Diabetology,Star
+REP0416,Rehaan Chakrabarti,62,47,48387,Oncology,Star
+REP0417,Lavanya Kibe,62,19,28011,General,Star
+REP0418,Zashil Nazareth,24,28,59571,Cardiology,Cash Cow
+REP0419,Bishakha Apte,55,87,61810,Oncology,Cash Cow
+REP0420,Ishwar Tailor,9,94,37490,Oncology,Cash Cow
+REP0421,Bhavika Mitra,3,64,56665,Neurology,Cash Cow
+REP0422,Mohammed Roy,31,48,39270,Diabetology,Dog
+REP0423,Logan Kuruvilla,40,66,46811,Oncology,Question Mark
+REP0424,Atharv Aggarwal,36,4,36642,Oncology,Question Mark
+REP0425,Nicholas Basak,24,56,67142,General,Cash Cow
+REP0426,Irya Soman,6,109,42039,General,Star
+REP0427,Adweta Dara,66,67,46264,Cardiology,Star
+REP0428,Advaith Palan,75,53,38120,Neurology,Star
+REP0429,Ranveer Chokshi,4,55,63613,Cardiology,Question Mark
+REP0430,Maya Varma,79,38,63866,General,Star
+REP0431,Udyati Gade,6,117,61309,Diabetology,Star
+REP0432,Nachiket Kale,51,28,54564,General,Cash Cow
+REP0433,Pahal Khalsa,62,31,38752,Neurology,Star
+REP0434,Tanish Mitter,57,23,53278,General,Dog
+REP0435,Ganga Dalal,66,13,44929,Neurology,Star
+REP0436,Gaurangi Dube,79,42,58124,Neurology,Star
+REP0437,Harrison Deep,75,13,56159,Neurology,Star
+REP0438,Chakrika Wali,8,38,38507,Neurology,Dog
+REP0439,Guneet Shere,26,115,54478,Neurology,Cash Cow
+REP0440,Jacob Hora,51,61,51820,Diabetology,Cash Cow
+REP0441,Dev Singh,45,41,25000,Cardiology,Cash Cow
+REP0442,Bhavna Jha,44,106,53009,Oncology,Dog
+REP0443,Amol Dasgupta,5,101,40682,Cardiology,Dog
+REP0444,Jagrati Gandhi,70,56,36139,Neurology,Question Mark
+REP0445,Aadi Bhagat,26,100,36567,Diabetology,Cash Cow
+REP0446,Gaurangi Ramachandran,68,57,43647,General,Cash Cow
+REP0447,Harrison Badal,19,113,49800,Diabetology,Question Mark
+REP0448,Zashil Sarraf,20,26,31345,Neurology,Cash Cow
+REP0449,Tanay Khanna,12,24,46898,Diabetology,Question Mark
+REP0450,Aadhya Narasimhan,47,71,50767,Diabetology,Star
+REP0451,Ronith Oommen,1,58,63618,Neurology,Question Mark
+REP0452,Damini Magar,14,35,34233,Diabetology,Cash Cow
+REP0453,Michael Aurora,64,38,41503,Oncology,Star
+REP0454,Yachana Sama,38,113,47616,Oncology,Question Mark
+REP0455,Qadim Kanda,37,22,56474,Diabetology,Question Mark
+REP0456,Laksh Sibal,11,85,41957,General,Cash Cow
+REP0457,Balvan Sen,77,101,56986,Neurology,Dog
+REP0458,Anay Mane,3,118,25626,Oncology,Cash Cow
+REP0459,Sneha Balan,33,109,32466,General,Question Mark
+REP0460,Dalbir Mutti,6,83,48486,Diabetology,Star
+REP0461,Raagini Ahluwalia,50,64,30891,General,Dog
+REP0462,Anamika Kar,10,111,33255,Cardiology,Star
+REP0463,Frado Kale,5,109,39722,Oncology,Dog
+REP0464,Joshua Guha,23,100,52714,Diabetology,Cash Cow
+REP0465,Azad Trivedi,10,75,26040,Neurology,Star
+REP0466,Jonathan Gour,44,28,46702,Diabetology,Dog
+REP0467,Aarav Mukhopadhyay,2,68,55329,Neurology,Question Mark
+REP0468,Dalbir Gill,13,119,43050,Diabetology,Question Mark
+REP0469,Arin Uppal,40,75,41311,General,Question Mark
+REP0470,Upasna De,2,75,49017,General,Question Mark
+REP0471,Abha Bhatnagar,65,42,43078,General,Dog
+REP0472,Rehaan Pant,63,19,58904,Cardiology,Cash Cow
+REP0473,Meghana Raj,73,3,33885,Neurology,Dog
+REP0474,Ethan Sharaf,17,91,44483,General,Cash Cow
+REP0475,Onveer Hari,9,63,47056,Cardiology,Cash Cow
+REP0476,Lipika Pradhan,75,45,41215,Neurology,Star
+REP0477,Lohit Yadav,15,106,25000,Diabetology,Dog
+REP0478,Pavani Roy,24,44,43390,Cardiology,Cash Cow
+REP0479,Unnati Bali,38,27,54001,Oncology,Question Mark
+REP0480,Nilima Patla,35,41,52781,Cardiology,Star
+REP0481,Lakshmi Saxena,49,37,48547,Cardiology,Question Mark
+REP0482,Omkaar Dixit,69,5,34021,Neurology,Question Mark
+REP0483,Daksha Mandal,62,116,48953,Diabetology,Star
+REP0484,Matthew Luthra,60,103,39265,Oncology,Dog
+REP0485,Hredhaan Chaudhary,50,110,48534,General,Dog
+REP0486,Dominic Vaidya,78,46,46215,General,Star
+REP0487,Faris Oza,75,53,35236,Cardiology,Star
+REP0488,Aayush Jain,9,96,36075,Neurology,Cash Cow
+REP0489,Mekhala Bhatti,34,104,48550,Neurology,Question Mark
+REP0490,Upma Sibal,76,100,42788,General,Star
+REP0491,Manya De,35,14,36597,Oncology,Star
+REP0492,Gunbir Krishna,1,21,35771,Diabetology,Question Mark
+REP0493,Jeevika Bose,40,103,41961,Oncology,Question Mark
+REP0494,Dalaja Deep,64,46,60681,Diabetology,Star
+REP0495,Anvi Iyer,22,61,39739,General,Star
+REP0496,Tristan Shanker,60,51,44859,Diabetology,Dog
+REP0497,Panini Reddy,64,63,46016,Neurology,Star
+REP0498,Keya Nayak,72,19,33689,Cardiology,Dog
+REP0499,Manan Mitra,11,76,27371,Cardiology,Cash Cow
+REP0500,Nimrat Chakrabarti,14,59,34733,General,Cash Cow
