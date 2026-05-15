@@ -1,14 +1,16 @@
 Pharma Sales Force Effectiveness (SFE) AnalyzerAn End-to-End Decision Analytics Project: Addressing ROI Decline through Predictive Modeling & Resource Optimization
 
 📌 Project Overview
-This project simulates a real-world consulting engagement for a pharmaceutical client facing a critical ROI challenge: Operational costs increased by 12%, while market share grew by only 3%.
-I developed a multi-stage analytical pipeline to diagnose the root causes of this inefficiency, identify wasted field force effort, and build a predictive early-warning system for representative performance.
-
+   ->This project simulates a real-world consulting engagement for a pharmaceutical client facing a critical ROI challenge: Operational costs increased by 12%, 
+   while market share grew by only 3%.
+   ->I developed a multi-stage analytical pipeline to diagnose the root causes of this inefficiency, identify wasted field force effort, and build a predictive 
+   early-warning system for representative performance.
+   
 🚀 Impact & Results
-->Revenue Opportunity: Identified a ₹3.2 Crore incremental revenue gain through precision targeting of uncalled high-value prescribers.
-->Efficiency Gains: Pinpointed a "Call Plateau" at 12 visits/month, revealing that 20% of field effort was spent on diminishing returns.
-->Predictive Accuracy: Developed a Random Forest model to predict "At-Risk" representatives based on behavioral DNA (A-Tier reach rate, tenure, and MPI).
-->Strategic Roadmap: Delivered a 90-day implementation plan to reallocate 15% of the field force from low-potential to high-potential territories. 
+   ->Revenue Opportunity: Identified a ₹3.2 Crore incremental revenue gain through precision targeting of uncalled high-value prescribers.
+   ->Efficiency Gains: Pinpointed a "Call Plateau" at 12 visits/month, revealing that 20% of field effort was spent on diminishing returns.
+   ->Predictive Accuracy: Developed a Random Forest model to predict "At-Risk" representatives based on behavioral DNA (A-Tier reach rate, tenure, and MPI).
+   ->Strategic Roadmap: Delivered a 90-day implementation plan to reallocate 15% of the field force from low-potential to high-potential territories. 
 
 🛠️ Tech Stack & Methodology1. 
 1. Data Engineering & SQLETL:
@@ -29,7 +31,8 @@ I developed a multi-stage analytical pipeline to diagnose the root causes of thi
    ->Actionable Lists: The "Quick Wins" table identifying uncalled A-tier doctors.
 
 💡 Key Business InsightsThe 
-    ->12-Call Rule: Beyond 12 calls per month to a single prescriber, the incremental gain in brand share drops by 85%. This indicates significant "over-servicing" of current accounts at the expense of new targets.
+    ->12-Call Rule: Beyond 12 calls per month to a single prescriber, the incremental gain in brand share drops by 85%. This indicates significant "over-
+    servicing" of current accounts at the expense of new targets.
     ->Targeting Mismatch: 32% of the workforce are currently assigned to "Dog" territories (low potential), suggesting a massive need for geographic reallocation.
     ->The Shocking Gap: 40% of the most valuable (A-Tier) prescribers were visited less than once per quarter.
 
